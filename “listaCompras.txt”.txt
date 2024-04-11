@@ -5,6 +5,12 @@ Tomate
 Cebolla
 Queso Cremoso
 
+Leche
+Pan
+Lechuga
+Tomate
+Cebolla
+Queso Cremoso
 Huevos
 Harina
 Aceite
@@ -16,6 +22,10 @@ Lechuga
 Tomate
 Cebolla
 Queso Cremoso
+Huevos
+Harina
+Aceite
+vinagre
 Queso rallado
 5 Manzanas
 12 naranjas
